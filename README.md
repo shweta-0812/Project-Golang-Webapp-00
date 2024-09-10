@@ -1,3 +1,10 @@
+A simple Golang webapp built using:
+- Gin Web framework
+- GORM for DB ORM
+
+Uses:
+- Postgres DB
+
 Reference: https://github.com/golang-standards/project-layout?tab=readme-ov-file
 
 ```
