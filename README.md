@@ -1,5 +1,6 @@
 Reference: https://github.com/golang-standards/project-layout?tab=readme-ov-file
 
+```
 myapp/
 ├── cmd/
 │   ├── api/
@@ -33,3 +34,4 @@ myapp/
 │   └── e2e/                       # End-to-end tests
 │       └── checkout_test.go
 └── go.mod                    # Go module file
+```
