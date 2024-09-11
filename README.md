@@ -8,7 +8,7 @@ Uses:
 Reference: https://github.com/golang-standards/project-layout?tab=readme-ov-file
 
 ```
-myapp/
+marcopolo/
 ├── cmd/
 │   ├── api/
 │   │   └── main.go           # Entry point for the API server
